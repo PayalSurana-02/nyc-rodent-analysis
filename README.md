@@ -1,4 +1,5 @@
 📊 NYC Rodent Complaints & Housing Violations Analysis
+
 CIS 9655 – Data Visualization
 
 **Research Question**
@@ -8,13 +9,15 @@ How have rodent-related 311 complaints changed over time in NYC, and are they as
 Rodents are more than a nuisance — they represent serious health and sanitation risks in dense urban environments like New York City. Poor housing conditions often contribute to infestations. This project explores the temporal and spatial trends of rodent-related complaints and housing code violations, aiming to help city agencies identify hotspots and improve response strategies.
 
 **Data Sources**
-311 Service Requests (2010–Present) from NYC Open Data
-- Filtered for Complaint Type: Rodent
+311 Service Requests (2010–Present)
+🔗 NYC Open Data – 311 Service Requests
+(Filtered for Complaint Type: "Rodent")
 
-NYC Housing Maintenance Code Violations dataset
-- Filtered for rat-related violations (e.g., keywords like “rat” in NOV descriptions)
-**
-Key Dashboards & Visualizations**
+Housing Maintenance Code Violations
+🔗 NYC Open Data – Housing Maintenance Code Violations
+(Filtered for rat-related NOV descriptions)
+
+**Key Dashboards & Visualizations**
 Live Tableau Dashboard:
 View Interactive Project on Tableau Public
 
