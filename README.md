@@ -1,2 +1,43 @@
-# nyc-rodent-analysis
-Tableau dashboard analyzing rodent-related 311 complaints and housing violations across NYC
+📊 NYC Rodent Complaints & Housing Violations Analysis
+CIS 9655 – Data Visualization
+
+**Research Question**
+How have rodent-related 311 complaints changed over time in NYC, and are they associated with housing maintenance violations across boroughs?
+
+**Motivation**
+Rodents are more than a nuisance — they represent serious health and sanitation risks in dense urban environments like New York City. Poor housing conditions often contribute to infestations. This project explores the temporal and spatial trends of rodent-related complaints and housing code violations, aiming to help city agencies identify hotspots and improve response strategies.
+
+**Data Sources**
+311 Service Requests (2010–Present) from NYC Open Data
+- Filtered for Complaint Type: Rodent
+
+NYC Housing Maintenance Code Violations dataset
+- Filtered for rat-related violations (e.g., keywords like “rat” in NOV descriptions)
+**
+Key Dashboards & Visualizations**
+Live Tableau Dashboard:
+View Interactive Project on Tableau Public
+
+**Included Dashboards:**
+Rodent Complaint Volume by Borough & Year
+
+Complaint Status Breakdown (Closed, In Progress, Pending)
+
+ZIP Code Hotspots for 311 Rodent Complaints
+
+Rat-Related Housing Violations by Borough & Speed of Resolution
+
+Bivariate Choropleth Map: Combined Rat Complaints & Violations
+
+Dual Axis Analysis: Violation Volume vs. Resolution Time
+
+**Insights & Findings**
+Brooklyn leads in rodent-related 311 complaints, followed by Manhattan.
+
+Many ZIP codes have a high volume of complaints but relatively low violation counts, suggesting potential under-enforcement.
+
+Resolution time for violations has improved in most areas, but delays persist in key ZIP codes.
+
+The bivariate map helps pinpoint locations with both high complaints and high violation counts — critical for targeted intervention.
+
+
