@@ -1,14 +1,17 @@
-📊 NYC Rodent Complaints & Housing Violations Analysis
+**NYC Rodent Complaints & Housing Violations Analysis**
 
 CIS 9655 – Data Visualization
 
 **Research Question**
+
 How have rodent-related 311 complaints changed over time in NYC, and are they associated with housing maintenance violations across boroughs?
 
 **Motivation**
+
 Rodents are more than a nuisance — they represent serious health and sanitation risks in dense urban environments like New York City. Poor housing conditions often contribute to infestations. This project explores the temporal and spatial trends of rodent-related complaints and housing code violations, aiming to help city agencies identify hotspots and improve response strategies.
 
 **Data Sources**
+
 311 Service Requests (2010–Present)
 
 🔗 NYC Open Data – 311 Service Requests
@@ -32,10 +35,12 @@ Housing Maintenance Code Violations
 [Housing Maintenance](https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5/about_data)
 
 **Key Dashboards & Visualizations**
+
 Live Tableau Dashboard:
 View Interactive Project on Tableau Public
 
 **Included Dashboards:**
+
 Rodent Complaint Volume by Borough & Year
 
 Complaint Status Breakdown (Closed, In Progress, Pending)
@@ -49,6 +54,7 @@ Bivariate Choropleth Map: Combined Rat Complaints & Violations
 Dual Axis Analysis: Violation Volume vs. Resolution Time
 
 **Insights & Findings**
+
 Brooklyn leads in rodent-related 311 complaints, followed by Manhattan.
 
 Many ZIP codes have a high volume of complaints but relatively low violation counts, suggesting potential under-enforcement.
