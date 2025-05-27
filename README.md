@@ -11,13 +11,16 @@ Rodents are more than a nuisance — they represent serious health and sanitatio
 **Data Sources**
 311 Service Requests (2010–Present)
 🔗 NYC Open Data – 311 Service Requests
-Rodent 311 Complaints (Google Sheet)](https://docs.google.com/spreadsheets/d/1717AmBELdLnU0xoHjceDTzLN4tKTTjZg/edit?usp=drive_link)  
+https://docs.google.com/spreadsheets/d/1717AmBELdLnU0xoHjceDTzLN4tKTTjZg/edit?usp=drive_link 
 (Filtered for Complaint Type: "Rodent")
 
 Housing Maintenance Code Violations
 🔗 NYC Open Data – Housing Maintenance Code Violations
-Housing Violations – NYC Open Data](https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/6j6j-wb7p)
+https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/6j6j-wb7p
 (Filtered for rat-related NOV descriptions)
+
+- 🐀 [Rodent 311 Complaints (Google Sheet)](https://docs.google.com/spreadsheets/d/1717AmBELdLnU0xoHjceDTzLN4tKTTjZg/edit?usp=drive_link)
+- 🏚️ [Housing Violations – NYC Open Data](https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/6j6j-wb7p)
 
 **Key Dashboards & Visualizations**
 Live Tableau Dashboard:
