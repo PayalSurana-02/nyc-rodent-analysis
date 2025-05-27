@@ -19,9 +19,10 @@ Housing Maintenance Code Violations
 [Housing Violations – NYC Open Data](https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/6j6j-wb7p)
 (Filtered for rat-related NOV descriptions)
 
-- 🐀 [Rodent 311 Complaints (Google Sheet)](https://docs.google.com/spreadsheets/d/1717AmBELdLnU0xoHjceDTzLN4tKTTjZg/edit?usp=drive_link)
-- 🏚️ [Housing Violations – NYC Open Data](https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/6j6j-wb7p)
+**Kaggle Links:**
 
+[311 Service Requests (2010–Present)] (https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
+[Housing Maintenance] (https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5/about_data)
 **Key Dashboards & Visualizations**
 Live Tableau Dashboard:
 View Interactive Project on Tableau Public
