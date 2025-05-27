@@ -63,4 +63,7 @@ Resolution time for violations has improved in most areas, but delays persist in
 
 The bivariate map helps pinpoint locations with both high complaints and high violation counts — critical for targeted intervention.
 
+**Tableau File:**
+[Download File](https://github.com/PayalSurana-02/nyc-rodent-analysis/blob/main/Final%20Group%20Project%20-%20Data%20Visualization.twbx)
+
 
